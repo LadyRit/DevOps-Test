@@ -1,0 +1,11 @@
+My groceries list
+Fish
+beef
+chicken
+onion
+milk
+cucumber
+carrot
+banana
+pepper
+tomatoes
